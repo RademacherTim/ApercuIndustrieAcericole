@@ -1,0 +1,53 @@
+---
+title: "Les érablières, les érables et le sirop: aperçu d'un secteur en forte croissance"
+author: Tim Rademacher^1,2,3,4^, Sylvain Delagrange^1^, Élise Filotas^5^ et Jérôme Dupras^1^
+output: html_document
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+|   *L'érable - l'espèce emblématique du Canada - vit une croissance économique et possiblement une rennaissance culturelle.* 
+|   *Les Québécois, le Québec et la nature peuvent en profiter si l'industrie, les universitaires et le gouvernement travaillent* 
+|   *ensemble pour garder la rôle de leader mondial.*
+
+<br>
+Dans la memoire vivante, le temps des sucres est un important bien culturel québécois. Pourtant, les cabanes à sucre ressemblent de moins en moins aux exploitations familiales où toute le monde donnait un coup de main. [Donne des exemples des changements].
+
+<!-- Secteur en croissance:
+  - Développement du marché
+  - Développement de la production
+  - Développement des nouveaux produits
+      - Acérum 
+      - boisson gazeux à base d'eau d'érable
+-->
+Comme tout changement, l'évolution de la cabane à sucre à travers les centennaires a apporté et continue de présenter des opportunités. Originalement inventer par les peuples autochtones de l'Amérique du Nord [@], la récolte de la sève de plusieurs essences d'arbres feuillues et la transformtion ont profité des avances technologiques <!-- d'ou veinnent ces technologies--> , telles que le chalumeaux, la tubulure, le sous-vide, les évaporateurs de plus en plus efficaces. Surtout dans les derniers trente ans, la technologie a propulsé l'acériculture. Sur le plan économique, acériculture est devenue une grande industrie en forte croissance depuis la convention collective sur la mise en marché en décembre 1989 (fig. 1). Même que le valeur totale de l'industrie est ???% de la foresterie ou l'agriculture, les salaire et revenue sont plus hauts que dans les deux autres secteurs [@]. Le succes de l'industrie s'est étendu hors du Québec avec une forte croissance aux nord-est des États-Unis. Notamment, avec a peu près 6 millions entailles le Vermont s'approche des 6.??? millions entailles de Estrie, mais loins derrière les 48 millions entailles de l'ensemble Québecois (fig. 2). La pandémie globale de la COVID-19 a mis des producteurs et productrices individuels dans une situation délicates, mais n'a pas pu ralentir la croissance. La saison 2020 a battu tous les récords en terme de production (fig. 1) et vente du sirop. À cause de ???[conditions météorologiques spécifiques] et une conséquente baisse de la production en 2021, la féderation des Producteurs et Productrices Acéricoles du Québec (PPAQ) a dû vendre ??? de sirop de la réserve stratégique, pour établir un nouveau record de vente pour une ??? année de suite. Pour mieux comblerla demande croissante la PPAQ cherchent à ajouter 7 millions d'entailles additionnelles dans les prochaines années [@]. 
+```{r figProductionMondiale, include = FALSE}
+
+```
+
+On plus de la croissance du passé les prédictions sont assez fort pour convaincre des gros [venture capitalistes] américaines à investir dans le secteur [@]. 
+<!-- L'histoire du secteur:
+  - L'origine
+  - Les traditions
+  - Les déperissements
+  - La mise en marché
+  - COVID
+    - Répercussions potentiels
+--> 
+
+<!-- L'Acériculture moderne
+  - le potentiel inexploité acéricole du Québéc
+  - le potentiel inexploité acéricole dans le monde
+  - les changements climatiques et globaux
+--> 
+
+<!-- Opportunités:
+  - Solutions nature pour combattre les changements climatiques
+  - Protéger nos forêts
+  - Profitez du quasi monopole pour continuer la trajectoire croissante et le rôle de leader d'innovation (production, équipements, etc.)
+  - Les productions ailleurs ne sont pas une menance. 
+    - peuvent séquestrer du carbone
+    - consomateurs d'equipements, technologies et innovations québécois
+-->
